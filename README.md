@@ -14,13 +14,16 @@ One of the main challenges in implementation of RL in  real life applications is
 <img width="1113" alt="Before_Training_Trajectories" src="https://github.com/chetanreddy1412/Safe-RL/assets/60615610/3973534b-22a0-4d3b-a616-60b82ef24abd">
 
 
-https://github.com/chetanreddy1412/Safe-RL/assets/60615610/d0699be3-e6aa-4a37-a05f-7c686e5f6467
+
+https://github.com/chetanreddy1412/Safe-RL/assets/60615610/4e8b2a59-7e5b-433a-a956-1583164c0cd0
+
 
 2. After Training - In addition to 100% safety, the pendulum achieves high performance with lower input torque. The state space trajectories of the learnt agent is depicted below:
 <img width="1131" alt="After_Training_Trajectories" src="https://github.com/chetanreddy1412/Safe-RL/assets/60615610/7e99ecf5-ae46-465b-8f60-aa02c6093101">
 
 
-https://github.com/chetanreddy1412/Safe-RL/assets/60615610/e2b5eeca-2819-4b9a-88bd-1b500bada648
+https://github.com/chetanreddy1412/Safe-RL/assets/60615610/90b09130-b31a-4f9e-839e-6c286326f444
+
 
 
 
