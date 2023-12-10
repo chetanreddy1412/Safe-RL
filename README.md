@@ -1,6 +1,6 @@
 # Safe-RL
 
-One of the main challenges in implementation of RL in  real life applications is safety.  Particularly,  the  undesired and harmful behaviour of RL agents involving humans is one of the major safety concerns. Utilizing the human in the RL agent as an active participant has been an active area of research, labelled as, human-in-the-loop RL. In this work, we propose to model  human participants as a constraint provider. Humans can provide context specific constraints to ensure safety. This leads to formulation of constrained Markov Decision Process (MDP). In this work, it is proposed to develop a framework for safe human-in-the-loop RL with human being a constraint provider. 
+One of the main challenges in implementation of RL in  real life applications is safety.  Particularly,  the  undesired and harmful behaviour of RL agents involving humans is one of the major safety concerns. In this work, we propose to model human participants as a constraint provider. Humans can provide context specific constraints to ensure safety. This leads to formulation of constrained Markov Decision Process (MDP). 
 
 ## Implementation
 1. The human provides a conservative safe set and an action set which ensures that the agent never leaves the safe set.
