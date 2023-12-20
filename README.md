@@ -15,7 +15,10 @@ One of the main challenges in implementation of RL in  real life applications is
 
 
 
-https://github.com/chetanreddy1412/Safe-RL/assets/60615610/c42e4627-286a-4c9a-a5e7-160ccf5217f7
+https://github.com/chetanreddy1412/Safe-RL/assets/60615610/7397c864-feb1-4662-8613-b73416a80d21
+
+
+
 
 
 
@@ -26,7 +29,6 @@ https://github.com/chetanreddy1412/Safe-RL/assets/60615610/c42e4627-286a-4c9a-a5
 
 
 
-https://github.com/chetanreddy1412/Safe-RL/assets/60615610/96dc078e-119e-49c6-a657-90cc4df7e87b
 
 
 
