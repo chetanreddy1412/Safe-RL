@@ -33,6 +33,13 @@ https://github.com/chetanreddy1412/Safe-RL/assets/60615610/be49f325-0df4-4e68-8e
 2. After Training - In addition to 100% safety, the pendulum achieves high performance with lower input torque. The state space trajectories of the learnt agent is depicted below:
 <img width="1131" alt="After_Training_Trajectories" src="https://github.com/chetanreddy1412/Safe-RL/assets/60615610/7e99ecf5-ae46-465b-8f60-aa02c6093101">
 
+Video:
+
+
+https://github.com/chetanreddy1412/Safe-RL/assets/60615610/f01a33d7-959e-4e58-896f-c1304261f588
+
+
+
 
 
 
