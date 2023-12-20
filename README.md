@@ -9,11 +9,15 @@ One of the main challenges in implementation of RL in  real life applications is
 4. In the marginally safe set, action masking would be employed and an action is chosen from a conservative action set.
 5. The algorithm is implemented for continuous control using DDPG (Deep Deterministic Policy Gradients). 
 
+
+https://github.com/chetanreddy1412/Safe-RL/assets/60615610/9735445c-4cd6-4fd5-8a46-6be233ecef23
+
+
 ## Results in Inverted Pendulum Environment:
 1. Before training - We see that only the conservative action (Torque = ± 2) is taken which ensures safety but has low performance and efficiency. The state space trajectories for the first three episodes of training are shown:
 <img width="1113" alt="Before_Training_Trajectories" src="https://github.com/chetanreddy1412/Safe-RL/assets/60615610/3973534b-22a0-4d3b-a616-60b82ef24abd">
 
-
+Video:
 
 https://github.com/chetanreddy1412/Safe-RL/assets/60615610/d03e9b0a-5726-4705-a896-44a11eadfa8c
 
