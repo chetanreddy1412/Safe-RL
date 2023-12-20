@@ -18,8 +18,7 @@ https://github.com/chetanreddy1412/Safe-RL/assets/60615610/9735445c-4cd6-4fd5-8a
 <img width="1113" alt="Before_Training_Trajectories" src="https://github.com/chetanreddy1412/Safe-RL/assets/60615610/3973534b-22a0-4d3b-a616-60b82ef24abd">
 
 Video:
-![Our Agent playing against a Copy of Itself](https://github.com/chetanreddy1412/Safe-RL/assets/60615610/d03e9b0a-5726-4705-a896-44a11eadfa8c)
-![Our Agent playing against a Copy of Itself](https://github.com/chetanreddy1412/Safe-RL/blob/main/After_Training.mp4)
+https://github.com/chetanreddy1412/safe-obstacle-avoidance/assets/60615610/03253815-5a0b-4eda-b857-a247d76853b1
 
 
 
