@@ -10,7 +10,11 @@ One of the main challenges in implementation of RL in  real life applications is
 5. The algorithm is implemented for continuous control using DDPG (Deep Deterministic Policy Gradients). 
 
 
-## Results in Inverted Pendulum Environment:
+## Results:
+
+https://github.com/chetanreddy1412/Safe-RL/assets/60615610/05f32efe-a3dc-41fd-815b-1825db87e244
+
+
 1. Before training - We see that only the conservative action (Torque = ± 2) is taken which ensures safety but has low performance and efficiency. The state space trajectories for the first three episodes of training are shown:
 <img width="1113" alt="Before_Training_Trajectories" src="https://github.com/chetanreddy1412/Safe-RL/assets/60615610/3973534b-22a0-4d3b-a616-60b82ef24abd">
 
