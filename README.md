@@ -11,6 +11,9 @@ algorithms that deal with this tradeoff between exploration and safety. In this
 study, we define a human-in-the-loop framework that ensures safety in both
 training and deployment.
 
+
+
+## Implementation
 Our approach involves two steps: the first step is the utilization of expert
 human input to establish a Safe State Space (SSS) and a corresponding Conservative
 Safe Policy (CSP). In simple environments, the human directly provides
@@ -20,13 +23,6 @@ version of the Deep Deterministic Policy Gradient algorithm augmented with
 a safety layer (built using SSS and CSP) that is learned by the agent during
 the training. We focus on continuous control environments which have a wide
 range of applications in robotics and autonomous systems.
-
-## Implementation
-1. The human provides a conservative safe set and an action set which ensures that the agent never leaves the safe set.
-2. We define three regions in the state space - marginally safe set, safe set and unsafe set.
-3. The agent is free to take its own action in the safe set.
-4. In the marginally safe set, action masking would be employed and an action is chosen from a conservative action set.
-5. The algorithm is implemented for continuous control using DDPG (Deep Deterministic Policy Gradients). 
 
 
 ## Results:
