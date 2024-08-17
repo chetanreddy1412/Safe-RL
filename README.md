@@ -27,16 +27,14 @@ range of applications in robotics and autonomous systems.
 
 ## Results:
 
-https://github.com/chetanreddy1412/Safe-RL/assets/60615610/05f32efe-a3dc-41fd-815b-1825db87e244
+
+https://github.com/user-attachments/assets/46e876d7-be12-4f2d-b95f-26bf63fe1cd0
 
 
-1. Before training - We see that only the conservative action (Torque = ± 2) is taken which ensures safety but has low performance and efficiency. The state space trajectories for the first three episodes of training are shown:
+
+1. Before Training: The state space trajectories for the first three episodes of training are shown:
 <img width="1113" alt="Before_Training_Trajectories" src="https://github.com/chetanreddy1412/Safe-RL/assets/60615610/3973534b-22a0-4d3b-a616-60b82ef24abd">
 
-Video:
-
-
-https://github.com/chetanreddy1412/Safe-RL/assets/60615610/be49f325-0df4-4e68-8eef-577b3dab8cf3
 
 
 
@@ -44,17 +42,8 @@ https://github.com/chetanreddy1412/Safe-RL/assets/60615610/be49f325-0df4-4e68-8e
 
 
 
-
-
-2. After Training - In addition to 100% safety, the pendulum achieves high performance with lower input torque. The state space trajectories of the learnt agent is depicted below:
+2. After Training: The state space trajectories of the learnt agent is depicted below:
 <img width="1131" alt="After_Training_Trajectories" src="https://github.com/chetanreddy1412/Safe-RL/assets/60615610/7e99ecf5-ae46-465b-8f60-aa02c6093101">
-
-Video:
-
-
-https://github.com/chetanreddy1412/Safe-RL/assets/60615610/f01a33d7-959e-4e58-896f-c1304261f588
-
-
 
 
 
