@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/46e876d7-be12-4f2d-b95f-26bf63fe1cd0
 
 
 
-2. After Training: The state space trajectories of the learnt agent is depicted below:
+2. After Training: The state space trajectories of the learnt agent is depicted below. The agent has learnt to stay well within the safe state space.
 <img width="1131" alt="After_Training_Trajectories" src="https://github.com/chetanreddy1412/Safe-RL/assets/60615610/7e99ecf5-ae46-465b-8f60-aa02c6093101">
 
 
