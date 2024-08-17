@@ -9,7 +9,7 @@ through extensive exploration and trial and error, which can sometimes violate
 safety constraints and result in undesirable outcomes. Safe RL encapsulates
 algorithms that deal with this tradeoff between exploration and safety. In this
 study, we define a human-in-the-loop framework that ensures safety in both
-training and deployment.
+training and deployment. **We develop a modified version of the DDPG algorithm which we call SafeDDPG.**
 
 
 
