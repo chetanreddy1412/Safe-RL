@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/46e876d7-be12-4f2d-b95f-26bf63fe1cd0
 
 
 
-1. Before Training: The state space trajectories for the first three episodes of training are shown:
+1. Before Training: The state space trajectories for the first three episodes of pendulum training are shown below. The region inside the red boundary is the "Safe State Space" while the region between the red and green boundaries is the "Marginally Safe State Space".
 <img width="1113" alt="Before_Training_Trajectories" src="https://github.com/chetanreddy1412/Safe-RL/assets/60615610/3973534b-22a0-4d3b-a616-60b82ef24abd">
 
 
